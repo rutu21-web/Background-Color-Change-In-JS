@@ -1,0 +1,14 @@
+#container {
+
+  height: 350px;
+  width:  350px;
+  background-color: blue;
+  margin: 0 auto;
+
+}
+
+#button {
+   margin-top: 10px;
+   margin-left: 48%;
+
+}
